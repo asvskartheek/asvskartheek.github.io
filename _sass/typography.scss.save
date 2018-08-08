@@ -39,26 +39,14 @@
     .profile-picture {
         height: $profile-image-size;
         width: $profile-image-size;
-        //box-shadow: 0 0 5px #828282;
-        position: relative;
-        margin: 0px 20px 0 0;
+       position: relative;
+        margin: -5px 20px 0 0;
         float: left;
-        border-radius: 5%;
+        border-radius: 10%;
         p & {
             padding: 0;
             margin: 0;
         }
-        @media (max-width: $small-width) {
-            img {
-                margin-top: -5px;
-            }
-        }
-    }
-    .custom_logo {
-        height: 60px;
-        width: 60px;
-        //box-shadow: 0 0 5px #828282;
-        position: relative;
         @media (max-width: $small-width) {
             img {
                 margin-top: -5px;

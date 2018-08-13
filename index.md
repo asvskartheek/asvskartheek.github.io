@@ -151,19 +151,48 @@ matching and retrieval</a> <br>
 
 
 
+***
+
+## Teaching
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
+-----|-----
+Monsoon 2018: | Teaching assistant (TA) in the course **Topics in Machine Learning (CSE975)**. Course instructor: [Prof. Naresh Manwani](https://sites.google.com/site/nareshmanwani/home)
+Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and Machine Learning**. Course instructor [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/)
 
 
 
+***
+
+## Services
+
+- *Reviewer*: Second IAPR International Conference on [Computer Vision & Image Processing](https://www.iitr.ac.in/cvip2017/) (**CVIP-2017**, September 10-12, 2017), IIT Roorkee.
+
+- *Organizing Team*:  17th [R&D showcase 2018](http://iiit.ac.in/randd/), IIIT Hyderabad: showcase of exhibits and demonstration research projects and represents of IIIT-H’s most recent developments in research and innovation in technology.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kj_P-it-ATE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+\[[Telangana Today](https://telanganatoday.com/iiit-hyderabad-to-organise-rd-showcase-2018-from-feb-24)\] \[[APN News](https://www.apnnews.com/iiit-hyderabad-celebrates-17th-convocation/)\]
+
+- *Organizing Team*: 1st [Computer Vision Summer School](http://cvit.iiit.ac.in/summerschoolseries/) 2016, IIIT Hyderabad.
+
+<!--- - *Volunteer*: Technical Exhibition 2015, Jamshedpur, Tata Steel.
+
+- *Web Developer & Proceedings*: IEEE International Conference on Microwave and Photonics (**ICMAP**) 2013, [IIT Dhanbad](https://www.iitism.ac.in/).
+ -->
 
 
+## Other Activity
 
+- **[2016 - Present]**: Admin,  CVIT Lab, HPC cluster of  (aka Cosmos).
 
+- **[2017 - Present]**: Student Admin, IIIT Hyderbad HPC cluster (aka ADA).
 
+<!--- - **[2012 - 2013]**: Secretary, IEEE-Student branch, IIT(ISM) Dhanbad.
 
+- **[2010 - 2012]**: Teacher, [Kartavya](http://www.kartavya.org/) , IIT(ISM) Dhanbad, an NGO for providing free and high quality education to underprivileged children living in slums and villages in india.
 
-
-
-
+ -->
 
 
 

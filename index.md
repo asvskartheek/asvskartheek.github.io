@@ -7,7 +7,7 @@ title: Abhishek Jha
 
 ## Bio
 
-I am a Computer Science MS student at IIIT Hyderabad. I am advised by [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and co-advised by [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/).
+I am a Computer Science MS student at IIIT Hyderabad. I am advised by [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and co-advised by [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/). I have recently submitted my MS thesis and currently visiting [IISc Bangalore](http://iisc.ac.in) as a Project Assistant at [MALL Lab](malllabiisc.github.io/). Here I am working with [Dr. Partha Pratim Talukdar](talukdar.net) and [Dr. Anirban Chokraborty](cds.iisc.ac.in/news/author/anirban/) on a project on Weakly supervised video understanding using Knowledge Graphs (KG). I am also collaboration with [Dr. Anand Mishra](https://researchweb.iiit.ac.in/~anand.mishra/) and [Ayush Bansal](www.cs.cmu.edu/~aayushb/) on a project on unsupervised video translation. 
 
 My research focuses on computer vision and machine learning for solving Visual Speech Recognition (VSR) which lies at the intersection of multiple modalities like videos (speech videos) audios (speech audio) and texts (Natural language).  I have also worked in the space of Image stylization for enabling cross-modal transfer of style. My goal is to develope robust and scalable solutions for real world sensing problems using computer vision.
 
@@ -22,7 +22,11 @@ I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tec
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
- **\[Jul 2018\]** | Presenting our work on "Lip-Synchronization for Dubbed Instructional Videos" at 2nd Research Symposium, IIIT Hyderabad.
+**\[Feb 2019\]** | **Accepted:** "Cross-Language Speech Dependent Lip-Synchronization" accepted in ICASSP 2019.
+**\[Feb 2019\]** | Will be spending next couple of months in **IISc Bangalore** as a visiting student.
+**\[Jan 2019\]** | Submitted my MS thesis at IIIT Hyderabad.
+**\[Dec 2018\]** | Paper "Spotting Words in Real World Videos : A Retrieval based approach" accepted in Journal of Machine Vision Application (MVA), Springer.
+**\[Jul 2018\]** | Presenting our work on "Lip-Synchronization for Dubbed Instructional Videos" at 2nd Research Symposium, IIIT Hyderabad.
 **\[May 2018\]** | Short paper "Lip-Synchronization for Dubbed Instructional Videos" accepted at [CVPR 2018 Workshop (FIVER)](http://fiver.eecs.umich.edu/).
 **\[May 2018\]** | Giving a talk on "[Introduction to Image Style Transfer](/data/intro_to_photorealistic_Image_stylization.pdf)", at [CVIT](http://cvit.iiit.ac.in), IIIT Hyderabad.
 **\[May 2018\]** | Paper "Cross-Modal Style Transfer" accepted at [ICIP](https://2018.ieeeicip.org/).
@@ -58,6 +62,28 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border-style: none ">
+
+
+
+<tbody>
+        <tr>
+                <td width="35%"><img src="/images/mva_2018.png" alt="lip_word_spot" width="250" style="border-style: none"></td>
+                <td width="65%" valign="top">
+                        <p>
+                                <a href="https://drive.google.com/file/d/1PXF46jspuTgMcXnyWcTgA90ABFI0LfyU/view?usp=sharing">
+				Spotting Words in Silent Speech Videos : A Retrieval based approach</a>
+                                <strong>Abhishek Jha</strong>,
+                                <a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
+                                <a href="http://faculty.iiit.ac.in/~jawahar/">C. V. Jawahar</a> <br>
+                        <span style="color:#9A2617;">Journal of Machine Vision and Applications <strong>(MVA)</strong>, Springer, 2018</span>
+                                <br><br>
+                                <a href="https://drive.google.com/file/d/1PXF46jspuTgMcXnyWcTgA90ABFI0LfyU/view?usp=sharing">[Paper]</a>
+                        </p>
+                </td>
+
+        </tr>
+</tbody>
+
 
 <tbody>
 	<tr>

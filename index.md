@@ -7,22 +7,15 @@ title: Kartheek Akella
 
 ## Bio
 
-I am a research fellow at [IIIT Hyderabad](https://iiit.ac.in/), where I was jointly advised by  [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/). My research is focused on neural machine translation for low resource languages using lower compute requirements.
+I am a research fellow at [IIIT Hyderabad](https://iiit.ac.in/), where I was jointly advised by  [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/). My research is focused on neural machine translation for low resource languages using low compute resources.
 
-Prior to joining the doctoral school I have spent a brief time visiting [IISc Bangalore](http://iisc.ac.in) as a Project Assistant at [MALL Lab](malllabiisc.github.io/), working with [Dr. Partha Pratim Talukdar](talukdar.net), [Dr. Anirban Chokraborty](cds.iisc.ac.in/news/author/anirban/) and [Dr. Anand Mishra](https://researchweb.iiit.ac.in/~anand.mishra/) on a project on Weakly supervised video understanding using Knowledge Graphs (KG).
-
-
- I completed my Masters (MS) at [IIIT Hyderabad](https://iiit.ac.in/), where I was jointly advised by  [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/). My masters research was focused on computer vision and machine learning for solving Visual Speech Recognition (VSR) which lies at the intersection of multiple modalities like videos (speech videos) audios (speech audio) and texts (Natural language).  I have also worked in the space of Image stylization for enabling cross-modal transfer of style. 
-
-<!--I am a Computer Science MS student at IIIT Hyderabad. I am advised by [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and co-advised by [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/). 
+<!--Prior to this, I have spent a brief time as a research assistant at CVIT working on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar. Before moving to Hyderabad, I was a Manager (Planning), at [Tata Steel Limited](http://tatasteel.com/) (2014-15) working towards automation and energy consumption optimization in processing plant.
 -->
 
-<!--My research focuses on computer vision and machine learning for solving Visual Speech Recognition (VSR) which lies at the intersection of multiple modalities like videos (speech videos) audios (speech audio) and texts (Natural language).  I have also worked in the space of Image stylization for enabling cross-modal transfer of style. My goal is to develope robust and scalable solutions for real world sensing problems using computer vision.
+<!-- Add a paragraph on I2r, A*STAR
 -->
 
-Prior to this, I have spent one year (2015-16) as a research fellow at CVIT working on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar. Before moving to Hyderabad, I was a Manager (Planning), at [Tata Steel Limited](http://tatasteel.com/) (2014-15) working towards automation and energy consumption optimization in processing plant.
-
-I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tech in Electronics and Communication Engineering. During my undergraduate years I worked closely with Prof. Mrinal Sen and [Dr. Dilip Prasad](https://sites.google.com/site/dilipprasad/) on projects related to computer vision and robotics.
+I graduated from [BITS Pilani](http://iitism.ac.in), India, in 2020 with a B.E in Computer Science. During my undergraduate years I worked closely with [Prof. Bhanumurthy](https://www.bits-pilani.ac.in/hyderabad/bhanumurthy/Profile) and [Prof. Aruna Malapati](https://universe.bits-pilani.ac.in/hyderabad/arunamalapati/Profile) on projects related to Machine Learning and Natural Language Processing for Telugu.
 
 ***
 
@@ -30,23 +23,9 @@ I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tec
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
-**\[Nov 2019\]** | Joining KU Leuven, as a PhD student, at PSI ESAT.
-**\[Jul 2019\]** | **Accepted:** Our paper "Towards Automatic Face-to-Face Translation" accepted in [ACM Multimedia 2019](https://www.acmmm.org/2019/).
-**\[May 2019\]** | Vikram presented our work ["Cross-Language Speech Dependent Lip-Synchronization"](https://drive.google.com/file/d/1a88OiddZDcfrE1yh8UORnMXLWe_YOcHY/view?usp=sharing) in [ICASSP 2019](https://2019.ieeeicassp.org/), Brighton, UK.
-**\[Apr 2019\]** | Presented my work on "Audio-Visual Speech Recognition and Synthesis" at [MPI-Informatics](https://www.mpi-inf.mpg.de/home/), Saarbrucken.
-**\[Apr 2019\]** | Successfully defended my MS thesis **Audio-Visual Speech Recognition and Synthesis**. [Thesis Link](http://web2py.iiit.ac.in/research_centres/publications/download/mastersthesis.pdf.ab492d305f4ce6f0.416268697368656b5f6a68615f4d535f5468657369735f66696e616c5f64726166742832292e706466.pdf). 
-**\[Feb 2019\]** | **Accepted:** "Cross-Language Speech Dependent Lip-Synchronization" accepted in ICASSP 2019.
-**\[Feb 2019\]** | Will be spending next couple of months in **IISc Bangalore** as a visiting student.
-**\[Jan 2019\]** | Submitted my MS thesis at IIIT Hyderabad.
-**\[Dec 2018\]** | Paper "Spotting Words in Real World Videos : A Retrieval based approach" accepted in Journal of Machine Vision Application (MVA), Springer.
-**\[Jul 2018\]** | Presenting our work on "Lip-Synchronization for Dubbed Instructional Videos" at 2nd Research Symposium, IIIT Hyderabad.
-**\[May 2018\]** | Short paper "Lip-Synchronization for Dubbed Instructional Videos" accepted at [CVPR 2018 Workshop (FIVER)](http://fiver.eecs.umich.edu/).
-**\[May 2018\]** | Giving a talk on "[Introduction to Image Style Transfer](/data/intro_to_photorealistic_Image_stylization.pdf)", at [CVIT](http://cvit.iiit.ac.in), IIIT Hyderabad.
-**\[May 2018\]** | Paper "Cross-Modal Style Transfer" accepted at [ICIP](https://2018.ieeeicip.org/).
-**\[Apr 2018\]** | Presenting our work on "Word-spotting in Silent Lip videos", at 1st Research Symposium, IIIT Hyderabad.
-**\[Mar 2018\]** | Presenting our paper "Word-spotting in Silent Lip videos", at [WACV 2018](http://wacv18.wacv.net/), Lake Tahoe, CA.
-**\[Fab 2018\]** | Organizing annual [R&D Showcase 2018](https://iiit.ac.in/randd/), at IIIT Hyderabad.
-**\[Jan 2018\]** | Will be working as a "Mentor" [for Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl).
+**\[Aug 2020\]** | Joining CVIT, IIIT Hyderabad as a research fellow under Prof. C V Jawahar.
+**\[Jul 2020\]** | Submitted my undergraduate thesis at BITS Hyderabad.
+**\[May 2019\]** | Will be working as a "TA" [for Deep Learning at WILP, BITS](https://bits-pilani-wilp.ac.in/m-tech/cluster/data-science-and-engineering.php).
 
 
 
@@ -73,7 +52,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 -->
 
 
-
+<!--
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border-style: none ">
 
 
@@ -286,7 +265,7 @@ While dealing with multi-modal data such as pairs of images and text, though ind
 
 
 </table>
-
+-->
 
 
 ***
@@ -295,14 +274,15 @@ While dealing with multi-modal data such as pairs of images and text, though ind
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
-Spring 2020: |  Teaching assistant (TA) in the course **Information System and Signal Processing (B-KUL-H09M0A)**, KU Leuven. Course instructor: [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa)
-Monsoon 2018: | Teaching assistant (TA) in the course **Topics in Machine Learning (CSE975)**, IIIT Hyderabad. Course instructor: [Prof. Naresh Manwani](https://sites.google.com/site/nareshmanwani/home)
-Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and Machine Learning**. Course instructor [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/)
+August 2020: |  Teaching assistant (TA) in the course **Deep Learning**, WILP, BITS Pilani.
+August 2019: | Teaching assistant (TA) in the course **Topics in Machine Learning (CSE975)**, IIIT Hyderabad. Course instructor: [Prof. Aruna Malapati](https://universe.bits-pilani.ac.in/hyderabad/arunamalapati/Profile)
+May 2019: | Teaching assistant (TA) in the course **Regression**, WILP, BITS Pilani. Course instructor: [Prof. N L Bhanumurthy](https://www.bits-pilani.ac.in/hyderabad/bhanumurthy/Profile)
 
 
 
 ***
 
+<!--
 ## Services
 
 - *Reviewer*: 7th [National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics](http://ncvpripg.kletech.ac.in/) (**NCVPRIPG 2019**), December 22-24, 2019, Hublie.
@@ -325,11 +305,12 @@ Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and
 
 ## Other Activity
 
-- **[2016 - Present]**: Admin,  CVIT Lab, HPC cluster of  (aka Cosmos).
+- **[2017 - 2019]**: App Developer,  DoTA, Department of Technical Arts, BITS.
 
+<!---
 - **[2017 - Present]**: Student Admin, IIIT Hyderbad HPC cluster (aka ADA).
 
-<!--- - **[2012 - 2013]**: Secretary, IEEE-Student branch, IIT(ISM) Dhanbad.
+- **[2012 - 2013]**: Secretary, IEEE-Student branch, IIT(ISM) Dhanbad.
 
 - **[2010 - 2012]**: Teacher, [Kartavya](http://www.kartavya.org/) , IIT(ISM) Dhanbad, an NGO for providing free and high quality education to underprivileged children living in slums and villages in india.
 

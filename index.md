@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Abhishek Jha
+title: Kartheek Akella
 ---
 
 
 
 ## Bio
 
-I am a doctoral student at KU Leuven, Belgium. I am advised by [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa) at PSI division, Departement Elektrotechniek (ESAT). My PhD research is focused on multimodal representation learning in the direction of robust and interpretable representations.
+I am a research fellow at [IIIT Hyderabad](https://iiit.ac.in/), where I was jointly advised by  [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/). My research is focused on neural machine translation for low resource languages using lower compute requirements.
 
 Prior to joining the doctoral school I have spent a brief time visiting [IISc Bangalore](http://iisc.ac.in) as a Project Assistant at [MALL Lab](malllabiisc.github.io/), working with [Dr. Partha Pratim Talukdar](talukdar.net), [Dr. Anirban Chokraborty](cds.iisc.ac.in/news/author/anirban/) and [Dr. Anand Mishra](https://researchweb.iiit.ac.in/~anand.mishra/) on a project on Weakly supervised video understanding using Knowledge Graphs (KG).
 

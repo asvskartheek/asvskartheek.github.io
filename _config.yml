@@ -1,5 +1,5 @@
-title: Abhishek Jha
-url: "https://abskjha.github.io"
+title: Kartheek Akella
+url: "https://asvskartheek.github.io"
 baseurl: "/"
 
 markdown: kramdown
@@ -7,8 +7,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/abskjha"
-footer_text: "Abhishek Jha (c) 2018"
+footer_url: "https://github.com/asvskartheek"
+footer_text: "Kartheek Akella (c) 2018"
 
 sass:
     style: compressed

@@ -3,10 +3,10 @@
 layout: default
 ---
 
-<img class="profile-picture" src="sherlock.jpg" />
+<img class="profile-picture" src="../images/mypic.jpg" />
 <hr />
 
-Abhishek Jha  
-Doctoral Student, VISICS,
-[Departement Elektrotechniek](https://www.esat.kuleuven.be/)  
-[Katholieke Universiteit Leuven](https://www.kuleuven.be/)
+Kartheek Akella  
+Research Fellow
+[Centre for Visual Information Technology](https://cvit.iiit.ac.in/)
+[IIIT Hyderabad](https://www.iiit.ac.in/)

@@ -3,7 +3,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="../images/mypic.jpg" />
+<img class="profile-picture" src="../images/mypic.png" />
 <hr />
 
 Kartheek Akella  

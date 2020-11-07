@@ -275,7 +275,7 @@ While dealing with multi-modal data such as pairs of images and text, though ind
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
 August 2020: |  Teaching assistant (TA) in the course **Deep Learning**, WILP, BITS Pilani.
-August 2019: | Teaching assistant (TA) in the course **Topics in Machine Learning (CSE975)**, IIIT Hyderabad. Course instructor: [Prof. Aruna Malapati](https://universe.bits-pilani.ac.in/hyderabad/arunamalapati/Profile)
+August 2019: | Teaching assistant (TA) in the course **Feature Engineering**, WILP, BITS Pilani. Course instructor: [Prof. Aruna Malapati](https://universe.bits-pilani.ac.in/hyderabad/arunamalapati/Profile)
 May 2019: | Teaching assistant (TA) in the course **Regression**, WILP, BITS Pilani. Course instructor: [Prof. N L Bhanumurthy](https://www.bits-pilani.ac.in/hyderabad/bhanumurthy/Profile)
 
 

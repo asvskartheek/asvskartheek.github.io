@@ -36,10 +36,15 @@ I graduated from [BITS Pilani](http://iitism.ac.in), India, in 2020 with a B.E i
 
 &nbsp;
 
+**COMING SOON, 3 Papers under peer review**
+
 
 <!---
 1. Abhishek Jha, Vikram Voleti, Vinay Namboodiri and C.V. Jawahar, ”Lip-Synchronization for Dubbed Instructional Videos”, Fine-grained Instructional Video Understanding, CVPR Workshop 2018. \[[Paper](http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf)\] \[[Poster](https://drive.google.com/file/d/19eTyXoDtKo_txxRRylg0mM9oQS7iKVaQ/view?usp=sharing)\]
 
+1. Sai Praveen Kadiyala, **Kartheek Akella**, Truong Huu Tram. Program Behavior Analysis and Clustering using Performance Counters. (Under Peer Review)
+
+2. Sai Himal Allu, **Kartheek Akella**, Sridhar Raghuram, Aman Singhal, Zeeshan Khan, Vinay Namboodiri, CV Jawahar. 
 
 2. Sahil Chelaramani, Abhishek Jha and Anoop Namboodiri, ”Cross-modal style transfer”, 25th IEEE International Conference on Image Processing (ICIP) 2018. \[[Paper](https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing)\]
 

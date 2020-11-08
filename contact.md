@@ -20,5 +20,5 @@ is_contact: true
 
 ## Social
 
-1. [LinkedIn](https://www.linkedin.com/in/kartheek-akella-0169b9143/)
-2. [GitHub](https://github.com/asvskartheek)
+1. [GitHub](https://github.com/asvskartheek)
+2. [LinkedIn](https://www.linkedin.com/in/kartheek-akella-0169b9143/)

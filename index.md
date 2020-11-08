@@ -9,10 +9,10 @@ title: Kartheek Akella
 
 I am a research fellow at [IIIT Hyderabad](https://iiit.ac.in/), where I was jointly advised by  [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/). My research is focused on neural machine translation for low resource languages using low compute resources.
 
-<!--Prior to this, I have spent a brief time as a research assistant at CVIT working on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar. Before moving to Hyderabad, I was a Manager (Planning), at [Tata Steel Limited](http://tatasteel.com/) (2014-15) working towards automation and energy consumption optimization in processing plant.
--->
+Prior to this, I have spent a brief time as a research assistant at [Institute of Infocomm Research (I2R)](https://www.a-star.edu.sg/i2r), A*STAR in Singapore working on the problem of dynamic analysis of benign programs, under the supervision of [Dr. Sai Praveen Kadiyala](https://www.linkedin.com/in/kadiyala-sai-praveen-92131733/). 
 
-<!-- Add a paragraph on I2r, A*STAR
+<!--
+Dummy Paragraph
 -->
 
 I graduated from [BITS Pilani](http://iitism.ac.in), India, in 2020 with a B.E in Computer Science. During my undergraduate years I worked closely with [Prof. Bhanumurthy](https://www.bits-pilani.ac.in/hyderabad/bhanumurthy/Profile) and [Prof. Aruna Malapati](https://universe.bits-pilani.ac.in/hyderabad/arunamalapati/Profile) on projects related to Machine Learning and Natural Language Processing for Telugu.
@@ -23,10 +23,11 @@ I graduated from [BITS Pilani](http://iitism.ac.in), India, in 2020 with a B.E i
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
-**\[Aug 2020\]** | Joining CVIT, IIIT Hyderabad as a research fellow under Prof. C V Jawahar.
+**\[Aug 2020\]** | Joined Center for Visual Information Technology (CVIT), IIIT Hyderabad as a research fellow under Prof. C V Jawahar.
+**\[Feb 2020\]** | Joined Institute of Infocomm Research (I2R), A*STAR in Singapore as a research assistant under Dr. Sai Praveen Kadiyala.
 **\[Jul 2020\]** | Submitted my undergraduate thesis at BITS Hyderabad.
-**\[May 2019\]** | Will be working as a "TA" [for Deep Learning at WILP, BITS](https://bits-pilani-wilp.ac.in/m-tech/cluster/data-science-and-engineering.php).
-
+**\[May 2019\]** | Joined as a "TA" for [Deep Learning at WILP, BITS](https://bits-pilani-wilp.ac.in/m-tech/cluster/data-science-and-engineering.php).
+**\[May 2018\]** | Joined National Textile Corporation, Coimbatore as a Software Developer Intern.
 
 
 ***

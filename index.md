@@ -23,6 +23,7 @@ I graduated from [BITS Pilani](http://iitism.ac.in), India, in 2020 with a B.E i
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
+**\[Nov 2020\]** | Started my [YouTube channel](https://www.youtube.com/channel/UCV7-XAVPAH4c7Xe7EwNTaAw) on explaining papers -- Inspired by [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew).
 **\[Sep 2020\]** | Participated in [Indic Multilingual Task](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html) in of Workshop on Asian Translation 2020 as team **cvit**. Produced close to SOTA results in four languages -- [Odiya](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=89&o=7) (2nd), [Malayalam](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=119&o=7) (2nd), [Telugu](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=125&o=7) (3rd) and [Tamil](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=123&o=7) (3rd)
 **\[Aug 2020\]** | Joined Center for Visual Information Technology (CVIT), IIIT Hyderabad as a research fellow under Prof. C V Jawahar.
 **\[Jul 2020\]** | Submitted my undergraduate thesis at BITS Hyderabad.

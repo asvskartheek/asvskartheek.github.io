@@ -39,7 +39,7 @@ I graduated from [BITS Pilani](http://iitism.ac.in), India, in 2020 with a B.E i
 ## Publications
 
 &nbsp;
-1. Sai Praveen Kadiyala, **Kartheek Akella**, Truong Huu Tram. Program Behavior Analysis and Clustering using Performance Counters. DYNAMICS (DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security) part of ACSAC 2020, Austin, Texas
+1. Sai Praveen Kadiyala, **Kartheek Akella**, Truong Huu Tram. Program Behavior Analysis and Clustering using Performance Counters. *Accepted at DYNAMICS (DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security) part of ACSAC 2020, Austin, Texas*
 
 **2 Papers under peer review**
 

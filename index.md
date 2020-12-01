@@ -23,6 +23,7 @@ I graduated from [BITS Pilani](http://iitism.ac.in), India, in 2020 with a B.E i
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
+**\[Dec 2020\]** | Our Paper got accepted at [ICON](https://www.iitp.ac.in/~ai-nlp-ml/icon2020/main_prog.html) 2020.
 **\[Nov 2020\]** | Our Paper got accepted at [ACSAC](https://www.acsac.org/) 2020.
 **\[Nov 2020\]** | Started my [YouTube channel](https://www.youtube.com/channel/UCV7-XAVPAH4c7Xe7EwNTaAw) on explaining ML and Deep Learning papers -- Inspired by [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew).
 **\[Sep 2020\]** | Participated in [Indic Multilingual Task](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html) in of Workshop on Asian Translation 2020 as team **cvit**. Produced close to SOTA results in four languages -- [Odiya](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=89&o=7) (2nd), [Malayalam](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=119&o=7) (2nd), [Telugu](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=125&o=7) (3rd) and [Tamil](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=123&o=7) (3rd)
@@ -39,9 +40,13 @@ I graduated from [BITS Pilani](http://iitism.ac.in), India, in 2020 with a B.E i
 ## Publications
 
 &nbsp;
-1. Sai Praveen Kadiyala, **Kartheek Akella**, Truong Huu Tram. Program Behavior Analysis and Clustering using Performance Counters. *Accepted at DYNAMICS (DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security) part of ACSAC 2020, Austin, Texas*
+1. **Kartheek Akella**, Sai Himal Allu, Sridhar Suresh Ragupathi, Aman Singhal, Zeeshan Khan, C.V. Jawahar and Vinay P. Namboodiri
+. Exploring Pair-Wise NMT for Indian Languages. *Accepted at ICON (International Conference on Natural Language Processing) 2020, Patna, India*
 
-**2 Papers under peer review**
+&nbsp;
+2. Sai Praveen Kadiyala, **Kartheek Akella**, Truong Huu Tram. Program Behavior Analysis and Clustering using Performance Counters. *Accepted at DYNAMICS (DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security) part of ACSAC 2020, Austin, Texas*
+
+**1 Papers under peer review**
 
 
 <!---

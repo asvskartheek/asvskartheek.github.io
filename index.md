@@ -4,6 +4,11 @@ title: Kartheek Akella
 ---
 
 
+## Research Interests
+- Generalization
+- Over-parameterization
+- Bayesian Deep Learning
+- Machine Translation
 
 ## Bio
 

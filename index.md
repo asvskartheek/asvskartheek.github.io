@@ -5,7 +5,7 @@ title: Kartheek Akella
 
 
 ## Research Interests
-- Generalization
+- Abstraction and Generalization
 - Over-parameterization
 - Bayesian Deep Learning
 - Machine Translation

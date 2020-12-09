@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [sukruthkartheek [at] gmail.com](mailto:sukruthkartheek[at]gmail.com)  
+* Email: [sukruthkartheek [at] gmail [dot] com](mailto:sukruthkartheek[at]gmail.com)  
 (where [dot] is   **.**   and   [at]   is   **@**)
 
 ---

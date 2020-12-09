@@ -44,32 +44,12 @@ I graduated from [BITS Pilani](http://iitism.ac.in), India, in 2020 with a B.E i
 
 ## Publications
 
-&nbsp;
-1. **Kartheek Akella**, Sai Himal Allu, Sridhar Suresh Ragupathi, Aman Singhal, Zeeshan Khan, C.V. Jawahar and Vinay P. Namboodiri
+2. **Kartheek Akella**, Sai Himal Allu, Sridhar Suresh Ragupathi, Aman Singhal, Zeeshan Khan, C.V. Jawahar and Vinay P. Namboodiri
 . Exploring Pair-Wise NMT for Indian Languages. *Accepted at ICON (International Conference on Natural Language Processing) 2020, Patna, India*
 
-2. Sai Praveen Kadiyala, **Kartheek Akella**, Truong Huu Tram. Program Behavior Analysis and Clustering using Performance Counters. *Accepted at DYNAMICS (DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security) part of ACSAC 2020, Austin, Texas*
+1. Sai Praveen Kadiyala, **Kartheek Akella**, Truong Huu Tram. Program Behavior Analysis and Clustering using Performance Counters. *Accepted at DYNAMICS (DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security) part of ACSAC 2020, Austin, Texas*
 
 **1 Paper is under peer review**
-
-
-<!---
-1. Abhishek Jha, Vikram Voleti, Vinay Namboodiri and C.V. Jawahar, ”Lip-Synchronization for Dubbed Instructional Videos”, Fine-grained Instructional Video Understanding, CVPR Workshop 2018. \[[Paper](http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf)\] \[[Poster](https://drive.google.com/file/d/19eTyXoDtKo_txxRRylg0mM9oQS7iKVaQ/view?usp=sharing)\]
-
-1. Sai Praveen Kadiyala, **Kartheek Akella**, Truong Huu Tram. Program Behavior Analysis and Clustering using Performance Counters. (Under Peer Review)
-
-2. Sai Himal Allu, **Kartheek Akella**, Sridhar Raghuram, Aman Singhal, Zeeshan Khan, Vinay Namboodiri, CV Jawahar. 
-
-2. Sahil Chelaramani, Abhishek Jha and Anoop Namboodiri, ”Cross-modal style transfer”, 25th IEEE International Conference on Image Processing (ICIP) 2018. \[[Paper](https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing)\]
-
-
-3. Abhishek  Jha,  Vinay  Namboodiri  and  C.V.  Jawahar,  ”Word  Spotting  in  Silent  Lip  Videos”,  IEEE  Winter
-Conference on Applications of Computer Vision (WACV) 2018. \[[Paper](https://cvit.iiit.ac.in/images/ConferencePapers/2018/Word-Spotting-in-Silent-Lip-Videos.pdf)\] \[[Poster](https://drive.google.com/file/d/1XAE6gRhy2terH2DOmg87uEzpXzSDZgTk/view?usp=sharing)\] \[[Project page](https://cvit.iiit.ac.in/research/projects/cvit-projects/lip-word-spotting)\]
-
-
-4. Yashaswi Verma, Abhishek Jha, C.V. Jawahar, ”Cross-specificity:  modelling data semantics for cross-modal
-matching and retrieval”, International Journal of Multimedia Information Retrieval, Springer, June 2018. \[[Link](https://link.springer.com/article/10.1007/s13735-017-0138-7)\]
--->
 
 
 <!--

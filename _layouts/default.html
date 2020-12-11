@@ -23,6 +23,8 @@
         <hr>
         {% if page.is_contact == true %}
             <div class="container content contact">
+        {% elseif page.is_publications==true %}
+            <div class="contatiner content publications"></div>
         {% else %}
             <div class = "container content">
                     {% include top-content.html %}

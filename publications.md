@@ -1,6 +1,6 @@
 ---
 layout: default
-is_contact: true
+is_publications: true
 ---
 ## Publications
 

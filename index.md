@@ -258,7 +258,6 @@ While dealing with multi-modal data such as pairs of images and text, though ind
 -->
 
 
-***
 
 ## Teaching
 

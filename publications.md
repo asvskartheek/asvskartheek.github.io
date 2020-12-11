@@ -1,3 +1,7 @@
+---
+layout: default
+is_contact: true
+---
 ## Publications
 
 2. **Kartheek Akella**, Sai Himal Allu, Sridhar Suresh Ragupathi, Aman Singhal, Zeeshan Khan, C.V. Jawahar and Vinay P. Namboodiri

@@ -5,7 +5,7 @@ is_publications: true
 ## List of Publications
 
 2. **Kartheek Akella**, Sai Himal Allu, Sridhar Suresh Ragupathi, Aman Singhal, Zeeshan Khan, C.V. Jawahar and Vinay P. Namboodiri
-. Exploring Pair-Wise NMT for Indian Languages. *Accepted at ICON (International Conference on Natural Language Processing) 2020, Patna, India* [[arXiv]](https://arxiv.org/abs/2012.05786)[[code]](https://github.com/asvskartheek/fairseq-working)
+. Exploring Pair-Wise NMT for Indian Languages. *Accepted at ICON (International Conference on Natural Language Processing) 2020, Patna, India* <a href="exploring_pairwise">[Detailed]</a>
 
 1. Sai Praveen Kadiyala, **Kartheek Akella**, Truong Huu Tram. Program Behavior Analysis and Clustering using Performance Counters. *Accepted at DYNAMICS (DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security) part of ACSAC 2020, Austin, Texas*
 
@@ -15,7 +15,7 @@ is_publications: true
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border-style: none ">
 
 
-<tbody>
+<tbody id="exploring_pairwise">
 	<tr>
 		<td width="35%"><img src="/images/exploring_pairwise.jpg" width="250" style="border-style: none"></td>
 		<td width="65%" valign="top">

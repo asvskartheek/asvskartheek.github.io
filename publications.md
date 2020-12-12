@@ -17,7 +17,7 @@ is_publications: true
 
 <tbody>
 	<tr>
-		<td width="35%"><img src="/images/exploring_pairwise.png" width="250" style="border-style: none"></td>
+		<td width="35%"><img src="/images/exploring_pairwise.jpg" width="250" style="border-style: none"></td>
 		<td width="65%" valign="top">
 			<p>
 				<a href="https://arxiv.org/abs/2012.05786">Exploring Pair-Wise NMT for Indian Languages</a> <br>

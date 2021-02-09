@@ -19,7 +19,7 @@ Prior to this, I have spent a brief time as a research assistant at [Institute o
 Dummy Paragraph
 -->
 
-I graduated from [BITS Pilani](http://iitism.ac.in), India, in 2020 with a B.E in Computer Science. During my undergraduate years I worked closely with [Prof. Bhanumurthy](https://www.bits-pilani.ac.in/hyderabad/bhanumurthy/Profile) and [Prof. Aruna Malapati](https://universe.bits-pilani.ac.in/hyderabad/arunamalapati/Profile) on projects related to Machine Learning and Natural Language Processing for Telugu. I also worked with [Prof. G Geethakumari](https://scholar.google.com/citations?user=IKddJZEAAAAJ&hl=en) on detecting RPL Attacks in Low Power and Lossy Networks (LLN).
+I graduated from [BITS Pilani](https://www.bits-pilani.ac.in/), India, in 2020 with a B.E in Computer Science. During my undergraduate years I worked closely with [Prof. Bhanumurthy](https://www.bits-pilani.ac.in/hyderabad/bhanumurthy/Profile) and [Prof. Aruna Malapati](https://universe.bits-pilani.ac.in/hyderabad/arunamalapati/Profile) on projects related to Machine Learning and Natural Language Processing for Telugu. I also worked with [Prof. G Geethakumari](https://scholar.google.com/citations?user=IKddJZEAAAAJ&hl=en) on detecting RPL Attacks in Low Power and Lossy Networks (LLN).
 
 ***
 

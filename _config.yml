@@ -8,7 +8,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/asvskartheek"
-footer_text: "Kartheek Akella (c) 2020"
+footer_text: "Kartheek Akella (c) 2020-2021"
 
 sass:
     style: compressed

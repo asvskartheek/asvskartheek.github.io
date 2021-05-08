@@ -27,9 +27,9 @@ I graduated from [BITS Pilani](https://www.bits-pilani.ac.in/), India, in 2020 w
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
-**\[5 May 2020\]** | Our Work - **More Parameters? No Thanks!** done at CVIT, IIIT-H got accepted at Findings of [ACL](https://2021.aclweb.org/) 2021.
-**\[1 Dec 2020\]** | Our Work done at CVIT, IIIT-H got accepted at [ICON](https://www.iitp.ac.in/~ai-nlp-ml/icon2020/main_prog.html) 2020.
-**\[18 Nov 2020\]** | Our Work done during my thesis at I2R, A*STAR got accepted at DYNAMICS Workshop part of [ACSAC](https://www.acsac.org/) 2020.
+**\[5 May 2020\]** | Our Work - **More Parameters? No Thanks!** at CVIT, IIIT-H got accepted at Findings of [ACL](https://2021.aclweb.org/) 2021.
+**\[1 Dec 2020\]** | Our Work - **Exploring Pair-Wise NMT for Indian Languages** at CVIT, IIIT-H got accepted at [ICON](https://www.iitp.ac.in/~ai-nlp-ml/icon2020/main_prog.html) 2020.
+**\[18 Nov 2020\]** | Our Work - **Program Behavior Analysis and Clustering using Performance Counters** done during my thesis at I2R, A*STAR got accepted at DYNAMICS Workshop part of [ACSAC](https://www.acsac.org/) 2020.
 **\[10 Nov 2020\]** | Started my [YouTube channel](https://www.youtube.com/channel/UCV7-XAVPAH4c7Xe7EwNTaAw) on explaining ML and Deep Learning papers -- Inspired by [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew).
 **\[6 Nov 2020\]** | Our Work done during my thesis at I2R, A*STAR has been filed for an internal patent.
 **\[18 Sep 2020\]** | Participated in [Indic Multilingual Task](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html) in of Workshop on Asian Translation 2020 as team **cvit**. Produced close to SOTA results in four languages -- [Odiya](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=89&o=7) (2nd), [Malayalam](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=119&o=7) (2nd), [Telugu](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=125&o=7) (3rd) and [Tamil](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/list.php?t=123&o=7) (3rd)
